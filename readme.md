@@ -1,4 +1,4 @@
-# Google Workspace Shared Drive RBAC Audit
+# Google Workspace Shared Drive Audit
 
 Thess scripts generate a read-only access audit report for all Shared Drives in your Google Workspace domain. They lists roles, access types, file counts, and external sharing status to help teams enforce RBAC policies.
 
